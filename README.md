@@ -1,4 +1,4 @@
-# Text-Encryption
+# Text and Image Encryption
 
 **Block** can be defined as a square box. Which has three sides,
 1. Data - Some part of the block contains information which is known as data. This data is nothing but information about sender, receiver and how many coins(money) have been transferred.
